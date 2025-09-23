@@ -1,7 +1,12 @@
 import LinkTree from "./LinkTree";
 
 function App() {
-  return <LinkTree />;
+  return (
+    <div>
+      <LinkTree />
+    </div>
+    
+  );
 }
 
 export default App;
