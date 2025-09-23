@@ -1,5 +1,5 @@
 import React from "react";
-import "./LinkTreeLinks.css"; // create this file for styling
+import "./LinkTreeLinks.css";
 
 const LinkTreeLinks = ({ links }) => {
   return (
