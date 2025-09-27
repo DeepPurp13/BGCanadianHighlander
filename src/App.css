@@ -1,9 +1,3 @@
-.canadianBackground {
-    background-image: url('./components/background_image.png');
-    padding-top: 1%;
-
-
-}
 body, a, button {
   cursor: url('../public/cursor.cur'), auto;
 }
